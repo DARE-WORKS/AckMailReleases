@@ -2,7 +2,7 @@
 
 ACKmail is a desktop email client with optional local AI integration.
 
-Get the installers from the [latest release](https://github.com/DARE-WORKS/ACKmail-Releases/releases/latest).
+Get the installers from the [latest release](https://github.com/DARE-WORKS/AckMailReleases/releases/latest).
 
 | Platform | Download |
 | --- | --- |
