@@ -9,7 +9,7 @@ ACKmail is a desktop email client with optional local AI integration.
 
 ## Ubuntu
 
-Download the `.deb` and open it in Ubuntu App Center, or install it from the download directory with `sudo apt install ./ackmail-1.0.12-linux-amd64.deb`. The package was tested on Ubuntu 24.04 LTS. Installing it adds the signed ACKmail APT repository for future updates. If you already use 1.0.11, install 1.0.12 once to enable this.
+Download only the `.deb` from the latest Ubuntu release and open it in Ubuntu App Center. The release notes show the matching command for installing it from a terminal. The package was tested on Ubuntu 24.04 LTS and adds the signed ACKmail APT repository for future updates. If you use 1.0.11 and have not set up the repository, install the current `.deb` once to enable updates.
 
 ## Windows
 
