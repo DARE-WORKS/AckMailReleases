@@ -2,16 +2,17 @@
 
 ACKmail is a desktop email client with optional local AI integration.
 
-## Download for Ubuntu
+Get the installers from the [latest release](https://github.com/DARE-WORKS/ACKmail-Releases/releases/latest).
 
-Open the [latest release](https://github.com/DARE-WORKS/ACKmail-Releases/releases/latest) and download the `linux-amd64.deb` package for 64-bit Intel and AMD systems. The package was tested on Ubuntu 24.04 LTS.
+| Platform | Download |
+| --- | --- |
+| Ubuntu, 64-bit Intel or AMD | `linux-amd64.deb` |
+| Windows, 64-bit Intel or AMD | `win-x64.exe` (preview) |
 
-Open the downloaded file in Ubuntu App Center, or run this command from your download directory with the filename you downloaded:
+On Ubuntu, open the downloaded file in App Center or use `sudo apt install ./` followed by the downloaded filename. The Debian package was tested on Ubuntu 24.04 LTS.
 
-```sh
-sudo apt install ./ackmail-1.0.11-linux-amd64.deb
-```
+The Windows preview is a direct-download installer without an Authenticode signature. The release notes describe the checks performed on this build.
 
-Launch **ACKmail** from the applications menu. For Codex integration, select **AI → Connect to ChatGPT Desktop** in ACKmail, then quit and reopen Codex Desktop.
+For Codex integration, open ACKmail, select **AI → Connect to ChatGPT Desktop**, then quit and reopen Codex Desktop.
 
 Visit the [ACKmail website](https://ackmail.web.app/) for documentation and product information.
